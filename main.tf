@@ -1,8 +1,3 @@
-provider "aws" {
-    region = "ap-southeast-1"
-  
-}
-
 # resource "aws_s3_bucket" "state_s3_bucket" {
     
 #   bucket = "tfstate-bucket1111"
